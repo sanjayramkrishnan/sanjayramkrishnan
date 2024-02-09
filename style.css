@@ -197,7 +197,7 @@ body{
  @media  screen and (max-width:800px) {
     body{
         font-size: 10px;
-        gap: 20px;
+        
     }
     .courses__code{
         flex-grow: 1;
